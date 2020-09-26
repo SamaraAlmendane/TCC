@@ -21,5 +21,5 @@ pip install tensorflow==2.2.0
 4. Para testar, execute o comando:
 
 ```
-python capsulenet.py -t -w result/trained_model-11-19.h5
+python capsulenet-adaptado.py -t -w result/trained_model-11-19.h5
 ```
